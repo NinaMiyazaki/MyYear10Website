@@ -26,7 +26,7 @@ img {
     color: white;
     text-align: center;
     position: relative;
-    font-family: "Courier New";
+    font-family: "Times New Roman";
 }
 
 /* BIG text styling for the hero section text */
@@ -41,7 +41,7 @@ img {
     font-size: 2em;
     padding: 0.1em 3em;
     background-color: rgb(71, 71, 71);
-    font-family: "Courier New";
+    font-family: "Times New Roman";
 }
 
 /* Three column grid with a nice big gap */
